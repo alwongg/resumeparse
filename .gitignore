@@ -1,0 +1,4 @@
+.env
+processed_resumes
+__pycache__
+.vscode
